@@ -3,7 +3,7 @@
 ### (100)-123-4567
 
 ### Education
-#### University of Washington  Seattle, WA
+#### University of Washington           Seattle, WA
  Major: Geography
 
 ### Work Experience s
