@@ -16,7 +16,7 @@
 -	Used SQL to improved database of knowledge cards including enacting strategies about data classification, and building a new mapping relationship, which affected more than **3 million** number of data and increased the accuracy of data classification to 95%.
 
 
-#### ByteDance Science and Technology Co., Ltd               Shenzhen, China    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ByteDance_logo_English.svg/2560px-ByteDance_logo_English.svg.png" width="100" height="20" />
+#### ByteDance Science and Technology Co., Ltd.              Shenzhen, China    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ByteDance_logo_English.svg/2560px-ByteDance_logo_English.svg.png" width="100" height="20" />
 **Intern, Data Operation**  (Dec. 2020-Apr. 2021)
 -	Responsible for ensuring the quality of geographical data, including the acceptance/cleaning of purchased third-party data, the quality inspection of internal production data, and the discovering and processing of false, duplicate, and low-quality data.
 -	Helped the department of algorithm to optimize data by **Python** and **SQL**; improved the accuracy of algorithm from 87% up to 98% through analyzing millions of data.
